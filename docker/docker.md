@@ -12,14 +12,14 @@ Docker 설치 및 관리를 편하게 하기 위해 Docker 에서 공식적으�
 
 - [Docker 공식 페이지](https://docs.docker.com/get-docker/)
 
-### Windows WSL 환경
-
-Windows 에서 Docker 를 사용하기 위해서는 WSL 이 사용 가능한 상태여야 한다.
-
-- [WSL 설치 MS 문서](https://docs.microsoft.com/en-us/windows/wsl/install)
-
 ## Docker Engine
 
 Linux 등의 환경에서 Docker 의 핵심 기능만 필요하다면 Docker Engine 만을 설치 하면 된다.
 
 - [Docker Engine 공식 페이지](https://docs.docker.com/engine/install/)
+
+## Windows WSL 환경
+
+Windows 에서 Docker 를 사용하기 위해서는 WSL 이 사용 가능한 상태여야 한다.
+
+- [WSL 설치 MS 문서](https://docs.microsoft.com/en-us/windows/wsl/install)
