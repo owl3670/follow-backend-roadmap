@@ -16,7 +16,8 @@ backend 와 관련된 기술 및 지식들을 모아 쉽게 볼 수 있게 하�
 - [Testing](#Testing)   
 
 # Architecture
-- [Architecture](https://github.com/owl3670/backend-wiki/tree/main/architecture)   
+- [Layered Architecture](https://github.com/owl3670/backend-wiki/tree/main/architecture/layered-architecture.md)   
+- [Hexagonal Architecture](architecture/hexagoanl-architecture.md)   
 
 # AWS
 - [AWS](https://github.com/owl3670/backend-wiki/tree/main/aws)   
