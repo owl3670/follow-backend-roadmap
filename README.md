@@ -16,8 +16,8 @@ backend 와 관련된 기술 및 지식들을 모아 쉽게 볼 수 있게 하�
 - [Testing](#Testing)   
 
 # Architecture
-- [Layered Architecture](https://github.com/owl3670/backend-wiki/tree/main/architecture/layered-architecture.md)   
-- [Hexagonal Architecture](architecture/hexagoanl-architecture.md)   
+- [Layered Architecture](architecture/layered-architecture.md)   
+- [Hexagonal Architecture](architecture/hexagonal-architecture.md)   
 
 # AWS
 - [AWS](https://github.com/owl3670/backend-wiki/tree/main/aws)   
@@ -26,7 +26,7 @@ backend 와 관련된 기술 및 지식들을 모아 쉽게 볼 수 있게 하�
 - [CI/CD](https://github.com/owl3670/backend-wiki/tree/main/ci-cd)   
 
 # Docker
-- [Docker](https://github.com/owl3670/backend-wiki/tree/main/docker)   
+- [Docker](docker/docker.md)   
 
 # Logging
 - [Logging](https://github.com/owl3670/backend-wiki/tree/main/logging)   
@@ -35,4 +35,4 @@ backend 와 관련된 기술 및 지식들을 모아 쉽게 볼 수 있게 하�
 - [Monitoring](https://github.com/owl3670/backend-wiki/tree/main/monitoring)   
 
 # Testing
-- [Testing](https://github.com/owl3670/backend-wiki/tree/main/testing)   
+- [JMeter](testing/jmeter.md)   
