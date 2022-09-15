@@ -7,10 +7,31 @@ backend 와 관련된 기술 및 지식들을 모아 쉽게 볼 수 있게 하�
 ----
 
 # 목차
-[Architecture](https://github.com/owl3670/backend-wiki/tree/main/architecture)   
-[AWS](https://github.com/owl3670/backend-wiki/tree/main/aws)   
-[CI/CD](https://github.com/owl3670/backend-wiki/tree/main/ci-cd)   
-[Docker](https://github.com/owl3670/backend-wiki/tree/main/docker)   
-[Logging](https://github.com/owl3670/backend-wiki/tree/main/logging)   
-[Monitoring](https://github.com/owl3670/backend-wiki/tree/main/monitoring)   
-[Testing](https://github.com/owl3670/backend-wiki/tree/main/testing)   
+- [Architecture](#Architecture)   
+- [AWS](#AWS)   
+- [CI/CD](#CI/CD)   
+- [Docker](#Docker)   
+- [Logging](#Logging)   
+- [Monitoring](#Monitoring)   
+- [Testing](#Testing)   
+
+# Architecture
+- [Architecture](https://github.com/owl3670/backend-wiki/tree/main/architecture)   
+
+# AWS
+- [AWS](https://github.com/owl3670/backend-wiki/tree/main/aws)   
+
+# CI/CD
+- [CI/CD](https://github.com/owl3670/backend-wiki/tree/main/ci-cd)   
+
+# Docker
+- [Docker](https://github.com/owl3670/backend-wiki/tree/main/docker)   
+
+# Logging
+- [Logging](https://github.com/owl3670/backend-wiki/tree/main/logging)   
+
+# Monitoring
+- [Monitoring](https://github.com/owl3670/backend-wiki/tree/main/monitoring)   
+
+# Testing
+- [Testing](https://github.com/owl3670/backend-wiki/tree/main/testing)   
