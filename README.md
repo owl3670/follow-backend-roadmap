@@ -10,7 +10,7 @@ backend 와 관련된 기술 및 지식들을 모아 쉽게 볼 수 있게 하�
 - [Architecture](#Architecture)   
 - [AWS](#AWS)   
 - [CI/CD](#CI/CD)   
-- [Docker](#Docker)   
+- [Infrastructure](#Infrastructure)   
 - [Logging](#Logging)   
 - [Monitoring](#Monitoring)   
 - [Testing](#Testing)   
@@ -25,8 +25,8 @@ backend 와 관련된 기술 및 지식들을 모아 쉽게 볼 수 있게 하�
 # CI/CD
 - [CI/CD](https://github.com/owl3670/backend-wiki/tree/main/ci-cd)   
 
-# Docker
-- [Docker](docker/docker.md)   
+# Infrastructure
+- [Docker](infrastructure/docker.md)   
 
 # Logging
 - [Logging](https://github.com/owl3670/backend-wiki/tree/main/logging)   
