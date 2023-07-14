@@ -12,32 +12,32 @@ Backend Roadmap 을 따라 공부하면서 간단히 정리하기 위한 프로�
 
 # 목차
 
-- [Internet](#Internet)   
-- [Learn a Language](#Learn a Language)   
-- [Version Control Systems](#Version Control Systems)   
-- [Git](#Git)   
-- [Repo hosting services](#Repo hosting services)   
-- [OS and General Knowledge](#OS and General Knowledge)   
-- [Relational Databases](#Relational Databases)   
-- [NoSQL Databases](#NoSQL Databases)
-- [More aboud Databases](#More aboud Databases)
-- [Scaling Databases](#Scaling Databases)
-- [Learn about APIs](#Learn about APIs)
-- [Caching](#Caching)
-- [Web Security Knowledge](#Web Security Knowledge)
-- [Testing](#Testing)
-- [CI/CD](#CI/CD)
-- [Software Design & Architecture](#Software Design & Architecture)
-- [Design and Development Principles](#Design and Development Principles)
-- [Architectural Patterns](#Architectural Patterns)
-- [Message Brokers](#Message Brokers)
-- [Containerization vs Virtualization](#Containerization vs Virtualization)
-- [GraphQL](#GraphQL)
-- [WebSockets](#WebSockets)
-- [Server Sent Events](#Server Sent Events)
-- [Web Servers](#Web Servers)
-- [Building for Scale](#Building for Scale)
-- [Devops](#Devops)
+- [Internet](#internet)   
+- [Learn a Language](#learn-a-language)   
+- [Version Control Systems](#version-control-systems)   
+- [Git](#git)   
+- [Repo hosting services](#repo-hosting-services)   
+- [OS and General Knowledge](#os-and-general-knowledge)   
+- [Relational Databases](#relational-databases)   
+- [NoSQL Databases](#nosql-databases)
+- [More about Databases](#more-about-databases)
+- [Scaling Databases](#scaling-databases)
+- [Learn about APIs](#learn-about-apis)
+- [Caching](#caching)
+- [Web Security Knowledge](#web-security-knowledge)
+- [Testing](#testing)
+- [CI/CD](#ci/cd)
+- [Software Design & Architecture](#software-design-&-architecture)
+- [Design and Development Principles](#design-and-development-principles)
+- [Architectural Patterns](#architectural-patterns)
+- [Message Brokers](#message-brokers)
+- [Containerization vs Virtualization](#containerization-vs-virtualization)
+- [GraphQL](#graphql)
+- [WebSockets](#websockets)
+- [Server Sent Events](#server-sent-events)
+- [Web Servers](#web-servers)
+- [Building for Scale](#building-for-scale)
+- [Devops](#devops)
 
 # Internet
 
@@ -56,7 +56,7 @@ Backend Roadmap 을 따라 공부하면서 간단히 정리하기 위한 프로�
 
 # NoSQL Databases
 
-# More aboud Databases
+# More about Databases
 
 # Scaling Databases
 
