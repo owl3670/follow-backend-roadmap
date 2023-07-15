@@ -51,4 +51,9 @@ TCP, UDP, HTTP, FTP 같은 것들이 대표적인 Protocol 입니다.
 
 # 참고 자료
 
-- <http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm>{: target="\_blank"}
+- <http://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm>
+
+---
+
+- [목록으로](../README.md#internet)
+
