@@ -10,8 +10,6 @@ HTTP (HyperText Transfer Protocol) 은 CERN 에서 연구하던 Tim Berners-Lee�
 
 HTTP 의 Message는 Request Message 와 Response Message 가 있다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/69344ea6-33f3-4bfd-9575-e5f0ad80f60b/Untitled.png)
-
 ## Request
 
 - Start line
